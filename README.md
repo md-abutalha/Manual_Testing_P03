@@ -46,12 +46,6 @@ I performed manual testing on the Gazi Home Appliance website, which involved th
 
 ---
 
-## License
-
-[No specific license applied]
-
----
-
 Md. Abu Talha  
 [GitHub Profile](https://github.com/md-abutalha)  
 E-Mail: abutalha03333@gmail.com
